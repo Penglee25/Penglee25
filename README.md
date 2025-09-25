@@ -1,6 +1,6 @@
 # 👋 Paul Gasmen (💻💖)
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Contributor;Open-Source+Advocate;)
+![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Contributor;Open-Source+Advocate;)
 
 I'm a Web Developer passionate about building scalable applications and clean user experiences.  
 I enjoy working across the stack, from crafting intuitive UIs to designing efficient backend systems.
